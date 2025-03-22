@@ -22,14 +22,11 @@ Windows OS, Linux (Arch, Debian)
 
 🪄Tools:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oldspoon&theme=highcontrast&hide_border=false)<br/>
-
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=oldspoon&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
+<br/>![](https://nirzak-streak-stats.vercel.app/?user=oldspoon&theme=highcontrast&hide_border=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=oldspoon&icon=0&color=4)](https://visitcount.itsvg.in)
 
